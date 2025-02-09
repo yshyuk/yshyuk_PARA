@@ -1,5 +1,10 @@
 
-
+<%*
+const year = tp.date.now("YYYY")
+const month = tp.date.now("MM")
+const targetDir = `0_Daily/${year}/${month}`
+await tp.file.move(`${targetDir}/${tp.file.title}`)
+-%>
 ---
 created: <% tp.date.now("YYYY-MM-DD") %>
 type: daily

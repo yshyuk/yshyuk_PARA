@@ -11,32 +11,13 @@
             "id": "dcd3c9dc01bf5519",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "5e01131f469a6322",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Daily.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Daily.md"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,13 +156,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "bd62bc22a6f11c5b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,17 +184,26 @@
       "command-palette:Open command palette": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "1fc4e9eb43b51871",
+  "active": "dcd3c9dc01bf5519",
   "lastOpenFiles": [
-    "새 텍스트 문서.txt",
+    "1_Projects/Untitled Kanban 1.md",
+    "1_Projects/Untitled Kanban.md",
+    "0_Daily/2025/02/2025-02-09.md",
+    "Templates/Daily.md",
+    "Templates/project.md",
+    "Templates/permanent_note.md",
     "Welcome.md",
+    "1_Projects/Untitled.md",
+    "1_Projects/Untitled 1.md",
+    "0_Daily/2025/02",
+    "0_Daily/2025",
+    "0_Daily",
+    "새 텍스트 문서.txt",
     "Untitled.canvas",
-    "Templates/Daily.md.md",
-    "Templates/permanent_note.md.md",
-    "Templates/project.md.md",
     "Templates",
     "Untitled",
     "4_Archives",
