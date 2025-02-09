@@ -8,6 +8,8 @@ await tp.file.move(`${targetDir}/${tp.file.title}`)
 ---
 created: <% tp.date.now("YYYY-MM-DD") %>
 type: daily
+tags: [daily]
+
 ---
 # 📅 <% tp.date.now("YYYY년 MM월 DD일") %>
 
@@ -21,3 +23,5 @@ type: daily
 - 좋았던 점:
 - 개선할 점:
 - 내일 할 일:
+
+<< [[<% tp.date.yesterday("YYYY-MM-DD") %>]] | [[<% tp.date.tomorrow("YYYY-MM-DD") %>]] >>
