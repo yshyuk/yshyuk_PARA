@@ -7,5 +7,14 @@
       ],
       "key": "N"
     }
+  ],
+  "templater-obsidian:create-Templates/project.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "P"
+    }
   ]
 }
