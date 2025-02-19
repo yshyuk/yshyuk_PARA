@@ -1,4 +1,7 @@
-
+<%*
+const targetDir = `1_Projects`
+await tp.file.move(`${targetDir}/${tp.file.title}`)
+-%>
 
 ---
 created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
